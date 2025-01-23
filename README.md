@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Arjun Vinod</h1>
 <h3>MERN Stack Developer | Turning Ideas into Web Applications 💻</h3>
 
-- 📫 How to reach me **arjun.vinodaj77@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
