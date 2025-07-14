@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **CI/CD pipelines, Dockerized apps, and deploying MERN apps on AWS**
 - 🌱 Exploring **Jenkins, Docker, Ansible, Terraform, AWS**, and **cloud-native deployment**
 - 🛠️ Passionate about building scalable apps and automating everything possible
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **arjun.vinodaj77@gmail.com**
 
 ---
 
