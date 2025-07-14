@@ -66,29 +66,19 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🔧 **Jenkins CI/CD Project** – Java WAR deploy to Tomcat on EC2  
-- 🐳 **Dockerized Node App** – Full app containerization  
-- ⚙️ **Ansible Playbooks** – Automate user & web server setup  
-- ☁️ **Terraform Scripts (Coming)** – Infra as code to launch EC2/VPC on AWS  
-- 🌐 **MERN Web Apps** – Frontend + Backend with REST APIs
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Vinod&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Vinod&layout=compact&theme=radical" alt="langs" height="150"/>
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/arjun-vinod-443900213)
+- ✉️ Email: arjun.vinodaj77@gmail.com
 
 ---
 
