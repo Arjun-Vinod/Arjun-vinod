@@ -77,7 +77,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/arjun-vinod-443900213)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arjun-vinod-443900213/)
 - ✉️ Email: arjun.vinodaj77@gmail.com
 
 ---
